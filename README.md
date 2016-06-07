@@ -1,2 +1,2 @@
-# learn-repo
-for data science course
+# Miner
+For Coursera Data Science learning
